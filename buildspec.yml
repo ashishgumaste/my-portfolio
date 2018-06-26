@@ -8,6 +8,6 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - Ashish Gumaste - resume.pdf
+    - Ashish-Gumaste.pdf
     - styles/main.css
     - images/*
