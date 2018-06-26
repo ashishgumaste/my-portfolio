@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo Nothing to add yet
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - Ashish Gumaste - resume.pdf
+    - styles/main.css
+    - images/*
